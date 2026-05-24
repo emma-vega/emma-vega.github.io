@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: UCLA Mathematics and Physics Undergraduate.
+subtitle: UCLA Mathematics and Physics Undergraduate
 
 profile:
   align: right
   image: headshot-from-vivian.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    eavega [at] ucla [dot] edu
-    eavega005 [at] gmail [dot] com
+    <p>eavega [at] ucla [dot] edu</p>
+    <p>eavega005 [at] gmail [dot] com</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a junior studying mathematics and physics at UCLA. Currently, I conduct research in percolation theory under <a href="https://www.math.ucla.edu/~mason/" target="_blank"> Prof. Mason Porter </a> and physics graduate student James Raj. I'm interested in abstract algebra, statistical physics, and computational mathematics and physics. Outside of academics, I enjoy making mixed-media collages, visiting diners with my older sibling, and volunteering as an FIRST Tech Challenge robotics referee.
+I'm a junior studying mathematics and physics at UCLA. Currently, I conduct research in percolation theory under <a href="https://www.math.ucla.edu/~mason/" target="_blank"> Prof. Mason Porter </a> and physics graduate student James Raj. I'm interested in abstract algebra, statistical physics, and computational mathematics and physics. I'm applying to graduate school for mathematics this Fall 2026 and seeking post-baccalaureate research positions.
+
+Outside of academics, I enjoy making mixed-media collages, visiting diners with my older sibling, and volunteering as an FIRST Tech Challenge robotics referee.
 
 Feel free to shoot me an e-mail if you're curious about something I do or have done!
