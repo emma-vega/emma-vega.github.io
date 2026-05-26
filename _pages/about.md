@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a junior studying mathematics and physics at UCLA. Currently, I conduct research in percolation theory under <a href="https://www.math.ucla.edu/~mason/" target="_blank"> Prof. Mason Porter </a> and physics graduate student James Raj. I'm interested in abstract algebra, statistical physics, and computational mathematics and physics. I'm applying to graduate school for mathematics this Fall 2026 and seeking post-baccalaureate research positions.
+I'm a junior studying mathematics and physics at UCLA. Currently, I conduct research in percolation theory under <a href="https://www.math.ucla.edu/~mason/" target="_blank"> Prof. Mason Porter </a> and physics graduate student James Raj. I'm interested in abstract algebra, statistical physics, and computational mathematics and physics.
 
 Outside of academics, I enjoy making mixed-media collages, visiting diners with my older sibling, and volunteering as an FIRST Tech Challenge robotics referee.
 
